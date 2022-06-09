@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bogdan
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Flutter, Dart
+- 📫 How to reach me: Telegram @ZagrebaBogdan
